@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "992972858085",
+    "project_id": "flutter-lab7-ae831",
+    "storage_bucket": "flutter-lab7-ae831.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:992972858085:android:62c9b9f901cdc60c662a0c",
+        "android_client_info": {
+          "package_name": "com.example.flutt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6Rmnn964pnGRaFZ6apCy6cuANJ5-s4zo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
